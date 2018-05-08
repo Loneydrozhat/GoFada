@@ -1,2 +1,2 @@
 # GoFada
-A light web crawler/directory brute force scanner written in Golang.
+A light web crawler/directory brute force scanner written in Golang
