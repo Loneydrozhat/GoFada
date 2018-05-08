@@ -27,7 +27,10 @@ type visit struct {
     visited bool // Whether link was visited or not
 }
 
+//
 // Variables
+//
+
 var (
     base_url = "localhost" // Base url to start searching from
     scope_filter = "localhost" // Will limit search to urls starting with this
