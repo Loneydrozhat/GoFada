@@ -2,7 +2,7 @@
 A light web crawler/directory brute force scanner written in Golang
 
 ## Brief
-I have written this mainly as an exercise on Golang, yet it is a fully functional web crawler/directory brute force scanner to be used for mapping standard web applications. Its compiled version is only 5 MB large and it is fully text-based, so it might be useful in pivoting scenarios. I plan to enhance this tool in the future.
+I have written this mainly as an exercise on Golang, yet it is a fully functional web crawler/directory brute force scanner to be used for mapping standard web applications. It's only 5 MB large and fully text-based, so it might be useful in pivoting scenarios. I plan to enhance this tool in the future.
 
 ## Getting Started
 In order to compile GoFada you're supposed to have Go installed. Please refer to https://golang.org/doc/install for detail. Go packages may be installed using go get, e.g.
