@@ -60,7 +60,7 @@ gfd|set params|base_url>http://www.foo.bar/
 ## Acknowledgements
 * For information on SVNDigger wordlists (which I uploaded to this project) please refer to https://www.netsparker.com/blog/web-security/svn-digger-better-lists-for-forced-browsing/ - I did not compile these myself. 
 ## Authors
-* Eduardo Vasconcelos - dudsan (main author)
-* Diogo Brandão (contributor)
+* Eduardo Vasconcelos - esmev@protonmail.ch - dudsan (main author)
+* Diogo Brandão - diogo.brandao@perallis.com (contributor)
 ## License
 This project is lincensed under the terms of the GPL License. Please refer to https://www.gnu.org/licenses/gpl.html for detail.
