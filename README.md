@@ -6,7 +6,7 @@ A light web crawler/directory brute force scanner written in Golang
 ## Brief
 I have written this mainly as an exercise on Golang, yet it is a fully functional web crawler/directory brute force scanner to be used for mapping standard web applications. It's only 5 MB large and fully text-based, so it might be useful in pivoting scenarios.
 
-This tool is under constant enhancement. Contributions are heartly welcome. :-)
+This tool is under constant enhancement. Contributions are most welcome. :-)
 
 You might want to take a look at GoFada's board on Trello: https://trello.com/b/j5Hmw6PS/gofada.
 ## Getting Started
