@@ -3,6 +3,10 @@ package main
 // Usage
 // ./GoFada
 
+// Authors
+// Eduardo Vasconcelos - esmev@protonmail.ch
+// Diogo Brandao - diogo.brandao@perallis.com
+
 //
 // Imports
 //
